@@ -80,7 +80,7 @@ These demonstrate the execution of fraud detection queries and their correspondi
 1. Install MySQL 8.0 and MySQL Workbench.
 2. Import the original RedFlag transaction dataset.
 3. Ensure that the `redflag` database is available.
-4. Open `RedFlag_Mayuri.sql` in MySQL Workbench.
+4. Open `RedFlag_Mayuri_Nilange.sql` in MySQL Workbench.
 5. Execute the detection queries individually.
 6. Review the Result Grid to analyse suspicious transactions and users.
 
